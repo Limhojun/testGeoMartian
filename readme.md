@@ -8,7 +8,7 @@ gulp를 이용한 javascript project 관리
 * <a href = "gulp">gulp 설정 </a>
 
 ### 목록
-  * [사전작업](#beforehand)
+  * [사전작업](#chapter-1)
 
 
 <br>
@@ -79,7 +79,7 @@ gulp를 이용한 javascript project 관리
 <br>
 <br>
 <br>
-###### 사전작업 <a id="beforehand"></a>
+## 사전작업 <a id="chaper-1"></a>
 사전작업
 ---------
-<a id = "beforehand"> 사전작업
+### <a name = "beforehand"> 사전작업
