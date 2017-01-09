@@ -22,8 +22,10 @@ gulp를 이용한 javascript project 관리
 <br>
 <br>
 
-사전작업 <a id="chaper-1"></a>
+사전작업 <a id="chapter-1"></a>
+--------
+1. [node 설치]("https://nodejs.org/en/download/")
+
+
+
 eclipse <a id = 'chapter-2'> </a>
-사전작업
----------
-### <a name = "beforehand"> 사전작업
